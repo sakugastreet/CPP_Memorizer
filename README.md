@@ -1,17 +1,16 @@
 # Overview
 
-{This is a peice of C++ software to help users memorize any peice of writing
-}
+{This sprint I learned how to use the 3D Modeling Software Blender. }
 
 
-[Software Demo Video](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
+[Posts of my work in blender](https://youtu.be/bi6eMi4dgwU)
 
 # Development Environment
 
-{I used Visual Studio Code and C++}
+{I used Blender and a lot of Youtube Tutorials}
 
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [C++ Tutorials](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
+* [Blender Tutorials](https://www.youtube.com/watch?v=nIoXOplUvAw&list=PLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD)
